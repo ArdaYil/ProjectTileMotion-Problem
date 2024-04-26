@@ -1,0 +1,3 @@
+C:/Users/arda.yildirim/CLionProjects/Assignments/ProjectileMotion/cmake-build-debug/CMakeFiles/ProjectileMotion.dir
+C:/Users/arda.yildirim/CLionProjects/Assignments/ProjectileMotion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arda.yildirim/CLionProjects/Assignments/ProjectileMotion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
